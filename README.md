@@ -1,7 +1,7 @@
 # ecg_vbeat
 ECG Image Processing challenge
 
-A health tech company game me a challenge: 
+A health tech company gave me a challenge: 
 
 Given a collection of ECG strip images, find the location of V-beat in each image. 
 
