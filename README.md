@@ -1,17 +1,13 @@
 # ecg_vbeat
-ECG Image Processing exercise
+ECG Image Processing challenge
 
-please see attached the information on Biofourmis via articles. Their website is here – www.biofourmis.com
+A health tech company game me a challenge: 
 
- 
+Given a collection of ECG strip images, find the location of V-beat in each image. 
 
-Below is the assessment. This assessment will take 48hrs to complete.
+The ECG records a V-beat during a premature ventricular contraction in the heartbeat. 
 
- 
+This article explains what I did to train a machine learning model to recognise the shape of V-beat.
 
-Image Processing Test with the test link below:
-
- 
-
-https://www.dropbox.com/sh/u2pnrg1c1bi3q7l/AAB7waCPATZCzfcSQ0gkxiEYa?dl=0
+https://towardsdatascience.com/@jnyh
 
