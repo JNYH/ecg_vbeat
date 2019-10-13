@@ -9,8 +9,8 @@ The ECG records a V-beat during a premature ventricular contraction in the heart
 
 This article explains what I did to train a machine learning model to recognise the shape of V-beat.
 
-# Read more:
+## Read more
 https://towardsdatascience.com/locate-v-beat-in-electrocardiogram-ecg-2857157c5c97
 
-# Connect with me:
+## Connect with me
 https://www.linkedin.com/in/jnyh/
